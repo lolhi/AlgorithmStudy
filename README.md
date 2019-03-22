@@ -7,3 +7,10 @@
 
  - 출처 : https://www.acmicpc.net/problem/2839
  - 풀이 : https://github.com/lolhi/AlgorithmStudy/commit/d9bb0cd4640a9780a3bf38c0939ccc9a896f87a7
+
+## 2441번 별 찍기
+ - 첫째 줄에는 별 N개, 둘째 줄에는 별 N-1개, ..., N번째 줄에는 별 1개를 찍는 문제
+하지만, 오른쪽을 기준으로 정렬한 별(예제 참고)을 출력하시오.
+
+ - 출처 : https://www.acmicpc.net/problem/2441
+ - 풀이 : https://github.com/lolhi/AlgorithmStudy/commit/b109379f03008a867caf1a96c18347737a97afd3 
